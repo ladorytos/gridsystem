@@ -1,0 +1,186 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Helvetica;
+	font-weight: 400;
+	line-height: 24px;	
+} 
+
+* {
+    box-sizing: border-box;
+}
+
+header {
+	padding: 0;
+	margin: 0;
+	border-bottom: solid black 2px;
+	background: #2E2E2E;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+}
+
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+nav li:hover a{
+	background: #585858;
+}
+
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+}
+
+nav a:hover {
+	color: #fff;
+}
+.banner {
+	background: #D8D8D8;
+	border-bottom: #6E6E6E solid 2px;
+
+	
+}
+.more{
+	font-size: 15px;
+}
+
+a {text-decoration: none;
+	color: blue;
+	text-align: center;
+	line-height: 20px;
+}
+
+
+
+.imagen{
+	width: 200px;
+	height: 200px;
+	padding: 5px;
+	border: 1px solid gray;
+	display: inline-block;
+	position: relative;	
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+
+.imagen1{
+	width: 100px;
+	height: 100px;
+	border: 1px solid gray;
+	display: inline-block;
+	position: relative;	
+	max-width: 100%;
+	padding: 2px;
+}
+
+h4{
+	font-family: Arial;
+	font-size: 15px;
+	color:blue;
+	position: relative;
+	bottom: 10px;
+	
+}
+
+h5{
+	font-family: Helvetica;
+	font-size: 12px;
+	color:blue;
+	position: relative;
+	bottom: 5px;
+
+}
+
+li {
+	list-style: none;
+}
+	
+
+.text {
+	color: blue;
+
+}
+
+.icono {
+	width: 15px;
+	height: 15px;
+	position: relative;
+	float: left;
+	max-width: 100%;
+	
+}
+
+li h5 {
+	text-align: left;
+	left: 10px;
+	margin-top: 10px;
+}
+
+ul p {
+	font-size: 13px;
+	line-height: 18px;
+}
+
+footer {
+	background: #424242;
+	height: 180px;
+}
+
+.read { color: #A4A4A4;;
+}
+
+footer ul {
+	
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 10px;
+	line-height: 14px;
+}
+
+
+
+footer a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #A4A4A4;
+	position: relative;
+	bottom: 20px;
+	right: 200px;
+	
+}
+
+.text1 {
+	color: white;
+	font-size: 13px;
+	padding-top: 10px;
+}
+
+.text2{
+	color: #6E6E6E;
+	font-size: 10px;
+	text-align: center;
+	position: relative; 
+	left: 200px;
+	top: 50px;
+
+}
+
+

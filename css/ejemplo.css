@@ -1,0 +1,181 @@
+
+		<div class="container">
+			
+			<div class="row">
+			
+			<div class="col-9 grid">
+				<div class="row">
+				
+					<div class="col-2"></div>
+					<div class="col-2"></div>
+					<div class="col-2"></div>
+				</div>
+				<div class="row"></div>
+				<div class="row"></div>
+				<div class="row"></div>
+				<div class="row"></div>
+
+			</div>
+
+			<div class="col-3 widgets"></div>
+			
+			::after	
+		</div>
+	</section>
+
+	<footer>
+			<div class="container">
+				<div class="row">
+			::before
+			<div class="col-12">
+				<p>  </p>
+				<p class="botton_links"></p>
+				<p class="copyringht"></p>
+
+				::after
+				
+
+			</div>
+
+
+
+
+			</div>
+
+
+
+
+
+.jumbotron .col-3 {
+	text-align: center;
+	margin: 0;
+	padding: 10px 0;
+}
+
+.jumbotron .row {
+	margin-bottom: 20px;
+}
+
+.jumbotron h2 {
+	margin:  0 0 10px 3px;
+	font-size: 20px;
+}
+
+.tiny{
+	font-size: 12px;
+}
+
+.cover-img {
+	background: #fff;
+	padding: 3px;
+	height: 210px;
+	border: solid 1px #ccc;
+	width: 210px;
+}
+
+.jumbotron h4 {
+	font-size: 16px;
+	margin-top: 5px;
+	line-height:  16px;
+}
+
+.grid {
+	text-align: center;
+}
+
+.grid.row {
+	margin-bottom: 10px;
+}
+
+.grid .col-2{
+	margin-right: 10px;
+}
+
+.grid img {
+	background: #fff;
+	padding: 3px;
+	border: solid 1px #ccc;
+	width: 110px;
+	height: 110px;
+}
+
+.grid h5{
+	font-size: 13px;
+	line-height: 18px;
+	margin: -5px 0 5px 0;
+	font-weight: 400;
+}
+
+.widgets {
+	font-size: 14px;
+}
+
+.widgets h2 {
+	padding: 15px 0 0 0;
+	background: #fff;
+	font-size:1em;
+	font-weight: 700px;
+	color: #555;
+	width: 100%;
+	border-bottom: solid 1px #ddd;
+	margin-bottom:  15px;
+}
+
+.widget ul {
+	padding: 0;
+	margin: 0 0 10px 4px;
+	list-style: none;
+}
+
+.widget li {
+	margin: 0;
+	padding: 0;
+	display: list-item;
+}
+
+.widget img{
+height: 12px;
+width:12px;
+border: 0px;
+margin: -5px 10px 0 0;
+
+}
+
+footer {
+	padding: 20px 0 35px 0;
+	margin: 0;
+	background: #585858;
+	color: #fff;
+	font-size: 15px;
+	line-height: 28px;
+}
+
+footer p {
+	margin: 0 0 10px 0;
+}
+
+footer p.bottom_links {
+	text-align: center;
+	margin: 15px 0 0px 0;
+	font-size: 13px;
+}
+
+footer p.copyringht {
+	text-align: center;
+	margin: 20px 0 0px 0;
+	font-size: 11px;
+	color: #999;
+	line-height: 13px;
+}
+
+footer a{
+	color: #ccc;
+}
+
+footer a:hover{
+	color: #fff;
+}
+.content{
+	margin: 0;
+	background: #fff;
+}
